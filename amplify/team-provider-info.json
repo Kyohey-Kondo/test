@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-materix-dev-224348-authRole",
+      "UnauthRoleArn": "arn:aws:iam::655810570883:role/amplify-materix-dev-224348-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::655810570883:role/amplify-materix-dev-224348-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-materix-dev-224348-deployment",
+      "UnauthRoleName": "amplify-materix-dev-224348-unauthRole",
+      "StackName": "amplify-materix-dev-224348",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:655810570883:stack/amplify-materix-dev-224348/f54b11e0-1147-11eb-b6bc-0693e5f01c30",
+      "AmplifyAppId": "d3q8xyv09y1hr4"
+    }
+  }
+}
